@@ -1,3 +1,3 @@
 # First-Repo
 This is text.
-<p>Welcome to my site ! </p>
+<p>this is my first repo, and I'm just adding to learn</p>
